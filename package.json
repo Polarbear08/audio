@@ -1,0 +1,23 @@
+{
+  "name": "lovemg",
+  "version": "1.0.0",
+  "description": "audio player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify main.js -o dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polarbear08/audio.git"
+  },
+  "author": "polarbear08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Polarbear08/audio/issues"
+  },
+  "homepage": "https://github.com/Polarbear08/audio#readme",
+  "dependencies": {
+    "browserify": "^16.5.0"
+  }
+}
