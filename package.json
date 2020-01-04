@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Polarbear08/audio#readme",
   "dependencies": {
-    "browserify": "^16.5.0"
+    "browserify": "^16.5.0",
+    "howler": "^2.1.3"
   }
 }
