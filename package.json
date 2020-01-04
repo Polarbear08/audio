@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Polarbear08/audio/issues"
   },
-  "homepage": "https://github.com/Polarbear08/audio#readme"
+  "homepage": "https://github.com/Polarbear08/audio#readme",
+  "dependencies": {
+    "browserify": "^16.5.0"
+  }
 }
